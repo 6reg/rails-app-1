@@ -14,6 +14,7 @@ gem "jbuilder",        "2.11.5"
 gem "puma",            "5.6.4"
 gem "bootsnap",        "1.12.0", require: false
 gem "haml-rails",      "~> 2.0"
+gem "bcrypt",          "3.1.18"
 
 
 group :development, :test do
